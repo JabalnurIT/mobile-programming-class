@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace = "com.jibi.cameragalery"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.jibi.cameragalery"
